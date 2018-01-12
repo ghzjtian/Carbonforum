@@ -1,10 +1,8 @@
 ## 1.初次源码进入时的安装
 > 1.判断是否有文件 config.php 去进入安装目录
 > 2.install.lock 是否已经配置的 flag.
+> 3.install/index.php 配置及导入数据到数据库 和 默认的配置信息.
 
-
-* 1.判断是否有文件 config.php 去进入安装目录
-* 2.install/index.php 配置及导入数据到数据库 和 默认的配置信息.
 
 
 ###[相关的图片](#related_pic)
