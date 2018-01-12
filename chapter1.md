@@ -18,4 +18,6 @@
 
 ![](/assets/ScreenShot2018-01-12_22.10.14.png)
 
+* 2.进入安装路径:
 
+![](/assets/ScreenShot2018-01-12_22.17.14.png)
