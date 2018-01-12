@@ -15,6 +15,7 @@
 
 ###相关的图片<a name="related_pic"/>
 * 1.进入安装路径:
+
 ![](/assets/ScreenShot2018-01-12_22.10.14.png)
 
 
