@@ -4,8 +4,12 @@
 * 2.install/index.php 配置及导入数据到数据库 和 默认的配置信息.
 
 
-###相关的图片
+###[相关的图片](#related_pic)
 
 ***
 ***
 ***
+
+
+###相关的图片<a name="related_pic"/>
+
