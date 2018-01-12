@@ -29,7 +29,7 @@
 * 4.注册管理员
 
 ![](/assets/ScreenShot2018-01-12_22.21.15.png)
-
+![](/assets/ScreenShot2018-01-12_22.21.59.png)
 
 
 
