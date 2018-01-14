@@ -22,3 +22,4 @@
 * 2.View:
     * 1.内容:view/default/login.php
     * 2.其它布局:view/default/layout.php
+    * 3.保存 cookie.
