@@ -17,4 +17,5 @@
 
 ##2.登录<a name="login"/>
 
-
+* 1.控制器:
+```controller/login.php```
