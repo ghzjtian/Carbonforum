@@ -17,7 +17,7 @@
 
 ##2.登录<a name="login"/>
 
-* 1.控制器:
+* 1.控制器(判断登录的逻辑):
 ```controller/login.php```
 * 2.View:
     * 1.内容:view/default/login.php
