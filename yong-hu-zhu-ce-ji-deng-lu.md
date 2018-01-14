@@ -19,3 +19,6 @@
 
 * 1.控制器:
 ```controller/login.php```
+* 2.View:
+    * 1.内容:view/default/login.php
+    * 2.其它布局:view/default/layout.php
