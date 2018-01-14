@@ -18,7 +18,7 @@
     * 1.内容:view/default/register.php
     * 2.其它布局:view/default/layout.php
     * 3.保存 cookie.
-    * 4.输入框的判断：自动在输入框那里判断是否输入正确，数据库是否已经有了一样的名字.
+    * 4.输入框的判断：用 javascript 检查输入框那里是否输入正确，数据库是否已经有了一样的名字.
     
 * 3.相关的图片
 
