@@ -2,7 +2,7 @@
 
 ### [1.路由模式](#route_mode)
 ### [2.进入用户目录.](#user_directory)
-
+### [3.View 的分发](#view_dispatch)
 ***
 ***
 ***
@@ -21,5 +21,8 @@
     * 2.没有此用户
     ![](/assets/ScreenShot2018-01-14_11.09.45.png)
     
-    
+***
+
+### 3.View 的分发<a name="view_dispatch"/>
+
     
