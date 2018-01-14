@@ -24,5 +24,5 @@
 ***
 
 ### 3.View 的分发<a name="view_dispatch"/>
-
+* 1.都是在 view/default/layout.php (头和底的模板显示)上的显示,其中的 $ContentFile 则是可以根据业务区变化的.
     
