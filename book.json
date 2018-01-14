@@ -1,8 +1,8 @@
 {
 	"gitbook": "2.6.7",
-	"title":"GitHub博客的搭建",
+	"title":"CarbonForum的源码解读",
    	 "author":"JingTianZeng",
-        "description":"记录GitHub博客的搭建过程",
+        "description":"记录CarbonForum的源码解读过程",
 	"plugins": [
 		"tbfed-pagefooter",
 		"splitter",
