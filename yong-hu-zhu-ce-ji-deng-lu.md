@@ -27,7 +27,9 @@
 ![](/assets/ScreenShot2018-01-14_23.25.13.png)
     * 2.输入的名字已经有了(点击注册)
 ![](/assets/ScreenShot2018-01-14_23.26.11.png)
-
+    * 3.数据库的结构
+    ![](/assets/ScreenShot2018-01-15_10.00.49.png)
+![](/assets/ScreenShot2018-01-15_10.00.20.png)
 
 ***
 
