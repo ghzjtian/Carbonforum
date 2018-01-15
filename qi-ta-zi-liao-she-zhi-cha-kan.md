@@ -27,7 +27,7 @@
 >已经登录了一个用户，然后在其他用户的主目录那里就可以看到 ‘关注/取消关注’
 
 * 1.主要的互动界面在 ```view/default/user.php```
-* 2.点击 关注/取消关注 按钮,跳转到 static/js/default/global.js:Manage 中.
+* 2.点击 关注/取消关注 按钮,跳转到 static/js/default/global.js: Manage 中.
     * 1.跳转到
 
 
