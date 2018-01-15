@@ -28,7 +28,7 @@
 
 * 1.主要的互动界面在 ```view/default/user.php```
 * 2.点击 关注/取消关注 按钮,跳转到 static/js/default/global.js: Manage 中.
-    * 1.跳转到
+    * 1.跳转到 controller/manage.php
 
 
 
