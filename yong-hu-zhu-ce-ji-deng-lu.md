@@ -4,6 +4,7 @@
 
 ##[2.登录](#login)
 
+##[3.登出](#login_out)
 
 ***
 ***
@@ -51,4 +52,7 @@
     ![](/assets/ScreenShot2018-01-14_16.57.32.png)
     * 2.cookie 的存储
     ![](/assets/ScreenShot2018-01-14_18.46.50.png)
-    
+ 
+***
+  
+##3.登出<a name="login_out"/>
