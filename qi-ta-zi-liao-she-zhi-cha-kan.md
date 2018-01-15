@@ -29,8 +29,8 @@
 * 1.主要的互动界面在 ```view/default/user.php```
 * 2.点击 关注/取消关注 按钮,跳转到 static/js/default/global.js: Manage 中.
     * 1.跳转到 controller/manage.php
-
-
+    * 2.返回一个 json ,json 的内容包括 follow/unfollow
+    * 3. $TemplatePath 的作用?!!!
 
 
 
