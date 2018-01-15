@@ -56,3 +56,8 @@
 ***
   
 ##3.登出<a name="login_out"/>
+* 1.比较 ```$CurUserCode```
+* 2.清除 cookies
+* 3.重定向到指定的目录.
+
+
