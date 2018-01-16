@@ -55,6 +55,7 @@
     * 1.controller ->  controller/inbox_view.php
     * 2.//通过 私信的 id 和 关联的人的 id ,找到 私信信息
     * 3.view 在 view/default/inbox.php 中.
+        * 1.加载私信 Message 的详细信息.
 
 * 相关的截图:
 ![](/assets/ScreenShot2018-01-16_11.55.28.png)
