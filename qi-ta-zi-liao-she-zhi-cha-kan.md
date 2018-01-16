@@ -54,7 +54,7 @@
 * 1.相关的逻辑
     * 1.controller ->  controller/inbox_view.php
     * 2.//通过 私信的 id 和 关联的人的 id ,找到 私信信息
-    * 3.view 在 view/default/inbox.php 中.
+    * 3.主要的 view 在 view/default/inbox.php 中.
         * 1.加载私信 MessageList 的详细信息
           * 1.static/js/default/global.js  ->   loadMoreMessages 处理信息 .
           * 2.从 view/api/inbox.php 中取得信息,并以 json 方式返回到 global.js
