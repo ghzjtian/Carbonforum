@@ -60,7 +60,7 @@
           * 2.从 view/api/inbox.php 中取得信息,并以 json 方式返回到 global.js
         * 2.增加一条私信.
             * 1.按 发送 后, static/js/default/inbox.js 做回调处理.
-            * 2. controller/inbox_create.php -> service/inbox.php 处理逻辑
+            * 2.controller/inbox_create.php -> service/inbox.php 处理逻辑
             * 3.在 carbon_messages 处增加了一个记录. 在 carbon_inbox 处更新了信息.在 carbon_users 处更新了信息
             * 4.
                         
