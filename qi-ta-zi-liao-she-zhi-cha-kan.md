@@ -76,7 +76,7 @@
 > 主要逻辑 controller/new.php
 
 * 1.鉴权 Auth(是否是游客，或者是否被管理员封禁中...).
-
+* 2.显示文件在 view/default/new.php 
 
 
 
