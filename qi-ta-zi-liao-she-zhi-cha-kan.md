@@ -7,6 +7,7 @@
 ## [4.封禁用户](#block_user)
 ## [5.私信的收发](#private_message)
 ## [6.发新贴](#new_article)
+## [7.通知提醒](#notification)
 ***
 ***
 ***
@@ -85,7 +86,9 @@
     * 4.更新 carbon_upload 表.
     * 5.把数据插入 carbon_posttags 中.
     
-    
+***
+
+## 7.通知提醒<a name="notification"/>
     
     
     
