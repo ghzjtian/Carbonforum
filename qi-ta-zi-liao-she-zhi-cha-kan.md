@@ -39,6 +39,10 @@
 ***
 
 ## 4.封禁用户<a name="block_user"/>
+>管理员 封禁用户 的操作(不能发表新的文章)
+
+* 1.主要的互动界面在 ```view/default/user.php```
+* 2.点击 关注/取消关注 按钮,跳转到 static/js/default/global.js: Manage 中.
 
 
 
