@@ -6,6 +6,7 @@
 ## [3.用户 关注/取消关注 的逻辑](#follow)
 ## [4.封禁用户](#block_user)
 ## [5.私信的收发](#private_message)
+## [6.发新贴](#new_article)
 ***
 ***
 ***
@@ -71,6 +72,7 @@
 
 ***
 
+## 6.发新贴<a name="new_article"/>
 
 
 
