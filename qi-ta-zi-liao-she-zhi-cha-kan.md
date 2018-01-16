@@ -81,7 +81,7 @@
 * 4.controller/new.php 
     * 1.如果 carbon_tags 没有这个 tags ,则创建新的 tags
     * 2.把数据插入到 carbon_topics 中.
-
+    * 3.把数据插入到 carbon_posts 中.
 
 
 
