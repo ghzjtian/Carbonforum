@@ -83,7 +83,7 @@
     * 2.把数据插入到 carbon_topics 中.
     * 3.把数据插入到 carbon_posts 中.
     * 4.更新 carbon_upload 表.
-    
+    * 5.把数据插入 carbon_posttags 中.
     
     
     
