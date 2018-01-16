@@ -28,8 +28,9 @@
 
 * 1.主要的互动界面在 ```view/default/user.php```
 * 2.点击 关注/取消关注 按钮,跳转到 static/js/default/global.js: Manage 中.
-    * 1.跳转到 controller/manage.php
-    * 2.取得要 关注/取消关注 的 条目的 id
+    * 1.跳转到 controller/manage.php .
+    * 2.转换为 api 模式的返回.
+    * 2.取得要 关注/取消关注 的 条目的 id. 
     * 3.取得要返回的 follow / Unfollow 字.
     * 2.返回一个 json ,json 的内容包括 follow/unfollow
     * 3. $TemplatePath 的作用?!!!
