@@ -19,7 +19,7 @@
 * 1.用管理员在登录的情况下，查看用户的资料，就会看到有 禁封/解禁 的按钮显示
 * 2.相关的图片.
 ![](/assets/ScreenShot2018-01-15_14.01.05.png)
-
+![](/assets/ScreenShot2018-01-16_10.11.00.png)
 ![](/assets/ScreenShot2018-01-15_14.01.38.png)
 ![](/assets/ScreenShot2018-01-15_15.41.19.png)
 
