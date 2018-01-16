@@ -5,7 +5,7 @@
 ## 2.封禁用户
 ## [3.用户 关注/取消关注 的逻辑](#follow)
 ## [4.封禁用户](#block_user)
-
+## [5.私信的收发](#private_message)
 ***
 ***
 ***
@@ -48,6 +48,9 @@
 * 1.主要的互动界面在 ```view/default/user.php```
 * 2.点击 关注/取消关注 按钮,跳转到 static/js/default/global.js: Manage 中.
     
+***
+
+## 5.私信的收发<a name="private_message"/>
 
 
 
