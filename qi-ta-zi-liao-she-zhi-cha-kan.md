@@ -58,7 +58,7 @@
         * 1.加载私信 MessageList 的详细信息
           * 1.static/js/default/global.js  ->   loadMoreMessages 处理信息 .
           * 2.从 view/api/inbox.php 中取得信息,并以 json 方式返回到 global.js
-        * 2.
+        * 2.增加一条私信.
 
 * 相关的截图:
 ![](/assets/ScreenShot2018-01-16_11.55.28.png)
