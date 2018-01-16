@@ -52,7 +52,7 @@
 
 ## 5.私信的收发<a name="private_message"/>
 * 1.相关的逻辑
-    * 1.
+    * 1.controller ->  controller/inbox_view.php
 
 
 
