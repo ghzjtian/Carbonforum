@@ -78,7 +78,7 @@
 * 1.鉴权 Auth(是否是游客，或者是否被管理员封禁中...).
 * 2.显示文件在 view/default/new.php 
 * 3.点击发布 -> static/js/default/new.function.js
-
+* 4. controller/new.php 增加新的 article 逻辑.
 
 
 
