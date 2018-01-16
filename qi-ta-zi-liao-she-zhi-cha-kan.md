@@ -59,6 +59,7 @@
           * 1.static/js/default/global.js  ->   loadMoreMessages 处理信息 .
           * 2.从 view/api/inbox.php 中取得信息,并以 json 方式返回到 global.js
         * 2.增加一条私信.
+            * 1.按 发送 后, static/js/default/inbox.js
 
 * 相关的截图:
 ![](/assets/ScreenShot2018-01-16_11.55.28.png)
