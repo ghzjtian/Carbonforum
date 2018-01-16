@@ -75,6 +75,7 @@
 ## 6.发新贴<a name="new_article"/>
 > 主要逻辑 controller/new.php
 
+* 1.鉴权 Auth.
 
 
 
