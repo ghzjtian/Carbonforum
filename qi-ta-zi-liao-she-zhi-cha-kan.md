@@ -53,6 +53,12 @@
 ## 5.私信的收发<a name="private_message"/>
 
 
+* 相关的截图:
+![](/assets/ScreenShot2018-01-16_11.55.28.png)
+![](/assets/ScreenShot2018-01-16_11.55.02.png)
+![](/assets/ScreenShot2018-01-16_11.54.52.png)
+
+
 
 
 
