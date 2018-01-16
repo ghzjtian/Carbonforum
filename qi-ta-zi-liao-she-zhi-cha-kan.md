@@ -20,6 +20,7 @@
 * 2.相关的图片.
 ![](/assets/ScreenShot2018-01-15_14.01.05.png)
 
+![](/assets/ScreenShot2018-01-15_14.01.38.png)
 ![](/assets/ScreenShot2018-01-15_15.41.19.png)
 
 ![](/assets/ScreenShot2018-01-15_14.01.38.png)
