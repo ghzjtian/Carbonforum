@@ -96,7 +96,7 @@
     * 3.JavaScript: static/js/default/global.js
     
 * 2.回复我的:
-    * 1.
+    * 1.Controller: controller/notifications.php
 
 
 * 相关的截图:
