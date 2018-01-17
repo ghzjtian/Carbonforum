@@ -91,7 +91,9 @@
 ## 7.通知提醒<a name="notification"/>
     
 
-
+* 相关的截图:
+![](/assets/ScreenShot2018-01-16_22.45.29.png)
+![](/assets/ScreenShot2018-01-16_22.53.53.png)
 
 
     
