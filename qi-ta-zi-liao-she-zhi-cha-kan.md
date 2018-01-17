@@ -89,7 +89,9 @@
 ***
 
 ## 7.通知提醒<a name="notification"/>
-    
+
+* 1.逻辑
+    * 1.View: controller/notifications_list.php
 
 * 相关的截图:
 ![](/assets/ScreenShot2018-01-16_22.45.29.png)
