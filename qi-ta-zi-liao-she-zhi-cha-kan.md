@@ -92,7 +92,7 @@
 
 * 1.逻辑
     * 1.Controller: controller/notifications_list.php
-    单项控制Controller: controller/notifications.php
+       * 单项控制Controller: controller/notifications.php
     * 2.View: view/default/notifications_list.php
     * 3.JavaScript: static/js/default/global.js
     
