@@ -97,7 +97,7 @@
     * 3.JavaScript: static/js/default/global.js
     
 * 2.回复我的:
-    * 1.
+    * 1.从 carbon_notifications 和 carbon_posts 中搜索出必要的信息.
 
 
 * 相关的截图:
