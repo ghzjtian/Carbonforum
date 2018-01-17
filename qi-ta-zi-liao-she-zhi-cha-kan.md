@@ -95,9 +95,10 @@
        * 单项控制Controller: controller/notifications.php
     * 2.View: view/default/notifications_list.php
     * 3.JavaScript: static/js/default/global.js
+    * 4.根据不同的参数，从 carbon_notifications 和 carbon_posts 中搜索出必要的信息.
     
 * 2.回复我的:
-    * 1.从 carbon_notifications 和 carbon_posts 中搜索出必要的信息.
+    * 1.
 
 
 * 相关的截图:
