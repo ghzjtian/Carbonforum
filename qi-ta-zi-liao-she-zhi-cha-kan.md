@@ -93,6 +93,7 @@
 * 1.逻辑
     * 1.Controller: controller/notifications_list.php
     * 2.View: view/default/notifications_list.php
+    * 3.JavaScript: static/js/default/global.js
 
 * 相关的截图:
 ![](/assets/ScreenShot2018-01-16_22.45.29.png)
