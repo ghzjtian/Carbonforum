@@ -8,6 +8,9 @@
 ## [5.私信的收发](#private_message)
 ## [6.发新贴](#new_article)
 ## [7.通知提醒](#notification)
+
+##[8.服务器更新操作](#update_server)
+
 ***
 ***
 ***
@@ -111,7 +114,9 @@
 ![](/assets/ScreenShot2018-01-16_21.40.36.png)
 
     
+***
 
+##8.服务器更新<a name="update_server"/>
 
 
 
