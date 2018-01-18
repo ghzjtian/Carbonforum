@@ -5,4 +5,5 @@
 * [主入口\_index.php文件](zhu-ru-kou-index-php-wen-jian.md)
 * [用户注册及登录](yong-hu-zhu-ce-ji-deng-lu.md)
 * [其它资料设置查看](qi-ta-zi-liao-she-zhi-cha-kan.md)
+* [手机版网页](shou-ji-ban-wang-ye.md)
 
