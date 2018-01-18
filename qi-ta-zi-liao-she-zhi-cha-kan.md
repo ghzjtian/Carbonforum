@@ -92,7 +92,7 @@
 >点击某一个 tab ,就会清楚所有的 notification ???
 
 
-###1.查看通知：
+####1.查看通知：
 * 1.逻辑
     * 1.Controller: controller/notifications_list.php
        * 单项控制Controller: controller/notifications.php
