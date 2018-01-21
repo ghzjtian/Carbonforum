@@ -8,13 +8,13 @@
 ***
 ***
 
-### 1.首页获取 Topics 的列表数据
+## 1.首页获取 Topics 的列表数据
 
     * 1.POST 方法: https://api.94cb.com/page/1
     * 2.header , Content-Type : application/x-www-form-urlencoded
     * 3.参数: SKey=12450&STime=1516350991&SValue=3392b9e09f968dc7f0eb3ef2e1867936
     
-####1.1服务器流程:
+###1.1服务器流程:
     * 1.判断为 APP 模式请求: /common.php 
 >$IsApp = $_SERVER['HTTP_HOST'] == $Config['AppDomainName'] ? true : false;
 
@@ -26,12 +26,12 @@
     
 ***
 
-### 2.点击某个文章，跳进文章的详细页面
+## 2.点击某个文章，跳进文章的详细页面
     * 1.POST 方法: https://api.94cb.com/t/3434-1
     * 2.header , Content-Type : application/x-www-form-urlencoded
     * 3.参数: SKey=12450&STime=1516350991&SValue=3392b9e09f968dc7f0eb3ef2e1867936
 
-####2.1服务器流程:
+###2.1服务器流程:
     * 2.跳转到 控制器 /index.php -> /controller/topic.php
 >1.从 DB carbon_topics 中获取特定 ID 的 Topic 数据（判断该 Topic 是否存在）
 >2.根据 Topic ID 在 carbon_posts 中获取该 Topic 的详细的资料.
@@ -43,7 +43,7 @@
 
 ***
 
-### 3.回复文章或留言
+## 3.回复文章或留言
 
 * 1.APP 点击 某个文章或留言 的回复按钮 , 跳转到 ReplyActivity
 .
@@ -59,7 +59,7 @@ SKey=12450&STime=1516520274&SValue=287b22d87813576786784772802556cc&TopicID=3434
     * 3.回复成功，通过发送广播去提醒刷新 View .
 
 
-#### 3.2 服务器端的处理
+### 3.2 服务器端的处理
 * 1.在 common.php 中判断用户的身份是否正确.
 
 * 2.数据的处理: /controller/reply.php
@@ -75,7 +75,7 @@ SKey=12450&STime=1516520274&SValue=287b22d87813576786784772802556cc&TopicID=3434
 
 ***
 
-### 4.登录
+## 4.登录
 
 ####4.1,APP端
 * 1.获取验证码图片
@@ -88,7 +88,7 @@ SKey=12450&STime=1516520274&SValue=287b22d87813576786784772802556cc&TopicID=3434
             parameter.put("VerifyCode", verification_code);
     ```
     
-#### 4.2服务器端
+### 4.2服务器端
 > UserCode 和 UserExpirationTime 有什么用?
 
 * 1.控制器处理登录信息 controller/login.php

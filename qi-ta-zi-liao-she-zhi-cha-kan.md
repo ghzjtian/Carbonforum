@@ -77,6 +77,8 @@
 ***
 
 ## 6.发新贴<a name="new_article"/>
+
+####6.1网站
 > 主要逻辑 controller/new.php
 >怎样保存 附件/图片的信息???
 
