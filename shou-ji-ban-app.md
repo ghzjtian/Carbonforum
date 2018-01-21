@@ -34,6 +34,7 @@
 >1.从 DB carbon_topics 中获取特定 ID 的 Topic 数据（判断该 Topic 是否存在）
 >2.根据 Topic ID 在 carbon_posts 中获取该 Topic 的详细的资料.
 >3.获取该 Topic ID 是否已经被当前用户添加为 Favourite
+>4.更新该 Topic ID 在 DB carbon_topics 中的 浏览量
     * 3.格式化 view/api/home.php
     * 4.输出 view/api/layout.php
 
