@@ -1,7 +1,11 @@
 #手机版APP
 
+###1.判断来源请求是否是来自 APP ：
+>//如果是来自 APP 的请求.
+$IsApp = $_SERVER['HTTP_HOST'] == $Config['AppDomainName'] ? true : false;
 
-* 1.首页获取 Topics 的列表数据
+
+### 1.首页获取 Topics 的列表数据
 
     * 1.POST 方法: https://api.94cb.com/page/1
     * 2.header , Content-Type : application/x-www-form-urlencoded
