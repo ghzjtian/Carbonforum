@@ -70,6 +70,7 @@
             parameter.put("Password", MD5Util.md5(password));
             parameter.put("VerifyCode", verification_code);
     ```
+    
 #### 4.2服务器端
 > UserCode 和 UserExpirationTime 有什么用?
 
