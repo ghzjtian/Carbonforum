@@ -78,6 +78,7 @@
 
 ## 6.发新贴<a name="new_article"/>
 > 主要逻辑 controller/new.php
+>怎样保存 附件/图片的信息???
 
 * 1.鉴权 Auth(是否是游客，或者是否被管理员封禁中...).
 * 2.index.php -> controller/new.php ->  view/default/new.php -> 点击发布  static/js/default/new.function.js( CreateNewTopic ) -> 
@@ -90,6 +91,7 @@ controller/new.php(处理 POST )
     * 4.更新 carbon_upload 表.
     * 5.把数据插入 carbon_posttags 中.
 * 5.跳转到新发的 Topic 页面. 
+
 
 ***
 
