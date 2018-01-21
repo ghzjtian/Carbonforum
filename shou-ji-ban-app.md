@@ -45,8 +45,9 @@
 
 ### 3.回复文章或留言
 
-* 1.
-
+* 1.APP,点击 某个文章或留言 的回复按钮 , ReplyActivity
+>intent.putExtra("TopicID", mTopicID);
+>intent.putExtra("Content", contentHTML);
 
 
 
