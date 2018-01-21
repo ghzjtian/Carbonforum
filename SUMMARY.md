@@ -7,4 +7,5 @@
 * [其它资料设置查看](qi-ta-zi-liao-she-zhi-cha-kan.md)
 * [手机版网页](shou-ji-ban-wang-ye.md)
 * [手机版APP](shou-ji-ban-app.md)
+* [百度UEditor插件](bai-du-ueditor-cha-jian.md)
 
