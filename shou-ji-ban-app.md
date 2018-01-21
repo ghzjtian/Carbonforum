@@ -61,6 +61,7 @@
 
 ### 4.登录
 
+####4.1,APP端
 * 1.获取验证码图片
 * 2.执行登录的操作
     * 1.参数(密码 md5 加密)
@@ -69,7 +70,10 @@
             parameter.put("Password", MD5Util.md5(password));
             parameter.put("VerifyCode", verification_code);
     ```
+#### 4.2服务器端
 
+* 1.控制器处理登录信息 controller/login.php
+* 2.在 carbon_users 中获取用户信息，然后返回.
 
 
 
