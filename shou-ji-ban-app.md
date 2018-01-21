@@ -30,7 +30,10 @@
     * 3.参数: SKey=12450&STime=1516350991&SValue=3392b9e09f968dc7f0eb3ef2e1867936
 
 ####2.1服务器流程:
-
+    * 2.跳转到 控制器 /index.php -> /controller/topic.php
+>获取数据.
+    * 3.格式化 view/api/home.php
+    * 4.输出 view/api/layout.php
 
 
 
