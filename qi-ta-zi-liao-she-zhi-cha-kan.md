@@ -11,7 +11,7 @@
 
 ##[8.服务器更新操作](#update_server)
 
-## 9.图片路径的保存
+## [9.图片路径的保存](#save_pic_path)
 ***
 ***
 ***
@@ -129,7 +129,7 @@ controller/new.php(处理 POST )
 
 ***
 
-## 9.图片路径的保存
+## 9.图片路径的保存<a name="save_pic_path"/>
 
 
 
