@@ -60,7 +60,13 @@ SKey=12450&STime=1516520274&SValue=287b22d87813576786784772802556cc&TopicID=3434
 
 
 #### 3.2 服务器端的处理
-* 1.数据的处理: /controller/reply.php
+* 1.在 common.php 中判断用户的身份是否正确.
+
+* 2.数据的处理: /controller/reply.php
+    * 1.从 carbon_topics 中获取指定 $TopicID 的数据.
+    * 2.
+
+
 
 ***
 
