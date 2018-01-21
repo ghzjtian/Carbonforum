@@ -133,7 +133,7 @@ controller/new.php(处理 POST )
 
 * 1.事件的传递
 
-index.php -> controller/upload.php -> controller/upload_file.php
+static/editor/ueditor.config.js -> index.php -> controller/upload.php -> controller/upload_file.php
 
 
 
