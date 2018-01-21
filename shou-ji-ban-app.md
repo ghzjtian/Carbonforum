@@ -64,7 +64,7 @@ SKey=12450&STime=1516520274&SValue=287b22d87813576786784772802556cc&TopicID=3434
 
 * 2.数据的处理: /controller/reply.php
     * 1.从 carbon_topics 中获取指定 $TopicID 的数据.
-    * 2.
+    * 2.把回复的内容插入表 carbon_posts 中.
 
 
 
