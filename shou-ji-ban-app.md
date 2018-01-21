@@ -71,6 +71,7 @@
             parameter.put("VerifyCode", verification_code);
     ```
 #### 4.2服务器端
+> UserCode 和 UserExpirationTime 有什么用?
 
 * 1.控制器处理登录信息 controller/login.php
 * 2.在 carbon_users 中获取用户信息，然后返回.
