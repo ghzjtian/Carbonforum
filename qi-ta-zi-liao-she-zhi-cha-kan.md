@@ -132,6 +132,7 @@ controller/new.php(处理 POST )
 ## 9.图片路径的保存<a name="save_pic_path"/>
 
 * 1.事件的传递
+
 index.php -> controller/upload.php -> 
 
 
