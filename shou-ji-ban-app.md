@@ -1,7 +1,5 @@
 #手机版APP
 
-###1.判断来源请求是否是来自 APP ：
->$IsApp = $_SERVER['HTTP_HOST'] == $Config['AppDomainName'] ? true : false;
 
 
 ### 1.首页获取 Topics 的列表数据
@@ -12,3 +10,6 @@
     
 ####1.1服务器流程:
     * 1.判断为 APP 模式请求: /common.php 
+>$IsApp = $_SERVER['HTTP_HOST'] == $Config['AppDomainName'] ? true : false;
+
+    * 2.跳转到 控制器 /index.php -> /controller/home.php
