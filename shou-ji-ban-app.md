@@ -48,9 +48,10 @@
 * 1.APP 点击 某个文章或留言 的回复按钮 , 跳转到 ReplyActivity
 .
 
-* 2.点击 发送 按钮，发送文章的回复.
->intent.putExtra("TopicID", mTopicID);
->intent.putExtra("Content", contentHTML);
+* 2.点击 发送 按钮，发送文章的回复(需要有登录者的信息).
+```
+SKey=12450&STime=1516520274&SValue=287b22d87813576786784772802556cc&TopicID=3434&Content=将会持续留意CarbonForum的福利&AuthUserID=5831&AuthUserExpirationTime=1519108263&AuthUserCode=81a6bcc891e24d35109bb08c7b3b8c50
+```
 
 * 3.ReplyService 回复发送中:
     * 1.弹出 Notification 提示 回复发送中.
