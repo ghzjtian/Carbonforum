@@ -1,7 +1,7 @@
 #手机版APP
 
 ###1.判断来源请求是否是来自 APP ：
->//如果是来自 APP 的请求.
+>如果是来自 APP 的请求.
 $IsApp = $_SERVER['HTTP_HOST'] == $Config['AppDomainName'] ? true : false;
 
 
