@@ -80,7 +80,7 @@
 > 主要逻辑 controller/new.php
 
 * 1.鉴权 Auth(是否是游客，或者是否被管理员封禁中...).
-* 2.index.php -> controller/new.php ->  view/default/new.php -> 点击发布  static/js/default/new.function.js -> CreateNewTopic
+* 2.index.php -> controller/new.php ->  view/default/new.php -> 点击发布  static/js/default/new.function.js( CreateNewTopic )
 
 
 * 4.处理需要发布的数据 controller/new.php 
