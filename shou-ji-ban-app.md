@@ -57,7 +57,18 @@
     * 2.上传 回复信息
 
 
+***
 
+### 4.登录
+
+* 1.获取验证码图片
+* 2.执行登录的操作
+    * 1.参数
+    ```
+    parameter.put("UserName", username);
+            parameter.put("Password", MD5Util.md5(password));
+            parameter.put("VerifyCode", verification_code);
+    ```
 
 
 
