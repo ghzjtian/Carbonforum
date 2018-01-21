@@ -56,7 +56,7 @@ SKey=12450&STime=1516520274&SValue=287b22d87813576786784772802556cc&TopicID=3434
 * 3.ReplyService 回复发送中:
     * 1.弹出 Notification 提示 回复发送中.
     * 2.上传 回复信息
-
+    * 3.回复成功，通过发送广播去提醒刷新 View .
 
 ***
 
