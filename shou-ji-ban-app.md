@@ -13,3 +13,6 @@
 >$IsApp = $_SERVER['HTTP_HOST'] == $Config['AppDomainName'] ? true : false;
 
     * 2.跳转到 控制器 /index.php -> /controller/home.php
+>获取数据.
+    * 3.格式化 view/api/home.php
+    * 4.输出 view/api/layout.php
