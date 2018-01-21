@@ -45,11 +45,16 @@
 
 ### 3.回复文章或留言
 
-* 1.APP,点击 某个文章或留言 的回复按钮 , ReplyActivity
+* 1.APP 点击 某个文章或留言 的回复按钮 , 跳转到 ReplyActivity
+.
+
+* 2.点击 发送 按钮，发送文章的回复.
 >intent.putExtra("TopicID", mTopicID);
 >intent.putExtra("Content", contentHTML);
 
-
+* 3.ReplyService 回复发送中:
+    * 1.弹出 Notification 提示 回复发送中.
+    * 2.上传 回复信息
 
 
 
