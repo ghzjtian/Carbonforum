@@ -77,7 +77,8 @@
 
 * 1.控制器处理登录信息 controller/login.php
 * 2.在 DB carbon_users 中获取用户信息，然后返回.
-* 3.
+* 3.在 view/api/login.php 中格式化返回的数据.
+* 4.在 view/api/layout.php 中返回数据.
 
 
 
