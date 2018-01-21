@@ -76,8 +76,8 @@
 > UserCode 和 UserExpirationTime 有什么用?
 
 * 1.控制器处理登录信息 controller/login.php
-* 2.在 carbon_users 中获取用户信息，然后返回.
-
+* 2.在 DB carbon_users 中获取用户信息，然后返回.
+* 3.
 
 
 
