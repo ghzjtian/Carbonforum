@@ -88,7 +88,7 @@
     * 3.把数据插入到 carbon_posts 中.
     * 4.更新 carbon_upload 表.
     * 5.把数据插入 carbon_posttags 中.
-    
+* 5.跳转到新发的 Topic 页面. 
 ***
 
 ## 7.通知提醒<a name="notification"/>
