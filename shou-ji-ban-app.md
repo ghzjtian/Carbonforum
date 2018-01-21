@@ -1,6 +1,7 @@
 #手机版APP
 
 
+
 ***
 ***
 ***
@@ -19,3 +20,10 @@
 >获取数据.
     * 3.格式化 view/api/home.php
     * 4.输出 view/api/layout.php
+    
+    
+***
+
+
+
+
