@@ -11,8 +11,10 @@
 
 * 5.相关的算法
 ```
-'UserCode' => md5($NewUserPassword . $NewUserSalt . $TemporaryUserExpirationTime . SALT)
 $TemporaryUserExpirationTime = 30 * 86400 + $TimeStamp;
+
+'UserCode' => md5($NewUserPassword . $NewUserSalt . $TemporaryUserExpirationTime . SALT)
+
 ```
 
 
