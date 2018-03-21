@@ -10,6 +10,7 @@
  * 4.注册完成后，就保存 UserID,ExpirationTime,UserCode 到 Cookies.
 
 * 5.相关的算法
+
 ```
 $TemporaryUserExpirationTime = 30 * 86400 + $TimeStamp;
 
