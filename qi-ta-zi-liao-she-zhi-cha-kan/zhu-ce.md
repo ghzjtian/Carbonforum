@@ -15,7 +15,9 @@
 $TemporaryUserExpirationTime = 30 * 86400 + $TimeStamp;
 define('SALT', 'AuthorIsLinCanbin');
 $NewUserSalt     = mt_rand(100000, 999999);
-
+//用户的 Password
+$NewUserPassword = md5($Password . $NewUserSalt);
+//用户的 验证Code 
 'UserCode' => md5($NewUserPassword . $NewUserSalt . $TemporaryUserExpirationTime . SALT)
 
 ```
