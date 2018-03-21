@@ -8,6 +8,7 @@
   * [登录](qi-ta-zi-liao-she-zhi-cha-kan/deng-lu.md)
   * [注册](qi-ta-zi-liao-she-zhi-cha-kan/zhu-ce.md)
   * [设置\_setting](qi-ta-zi-liao-she-zhi-cha-kan/she-zhi-setting.md)
+  * [忘记密码](qi-ta-zi-liao-she-zhi-cha-kan/wang-ji-mi-ma.md)
 * [手机版网页](shou-ji-ban-wang-ye.md)
 * [手机版APP](shou-ji-ban-app.md)
 * [百度UEditor插件](bai-du-ueditor-cha-jian.md)
