@@ -9,6 +9,11 @@
  * 3.保存到数据库的密码为md5(md5(passwd).salt).
  * 4.注册完成后，就保存 UserID,ExpirationTime,UserCode 到 Cookies.
 
+* 5.相关的算法
+```
+'UserCode' => md5($NewUserPassword . $NewUserSalt . $TemporaryUserExpirationTime . SALT)
+$TemporaryUserExpirationTime = 30 * 86400 + $TimeStamp;
+```
 
 
 ### 2.相关的截图
