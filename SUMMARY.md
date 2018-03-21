@@ -7,6 +7,7 @@
 * [PC网页](qi-ta-zi-liao-she-zhi-cha-kan.md)
   * [登录](qi-ta-zi-liao-she-zhi-cha-kan/deng-lu.md)
   * [设置\_setting](qi-ta-zi-liao-she-zhi-cha-kan/she-zhi-setting.md)
+  * [注册](qi-ta-zi-liao-she-zhi-cha-kan/zhu-ce.md)
 * [手机版网页](shou-ji-ban-wang-ye.md)
 * [手机版APP](shou-ji-ban-app.md)
 * [百度UEditor插件](bai-du-ueditor-cha-jian.md)
