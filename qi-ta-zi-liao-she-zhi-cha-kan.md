@@ -99,7 +99,7 @@ controller/new.php(处理 POST )
 ***
 
 ## 7.通知提醒<a name="notification"/>
->点击某一个 tab ,就会清楚所有的 notification ???
+>点击某一个 tab ,就会清除所有的 notification ???
 
 
 ####1.查看通知：
