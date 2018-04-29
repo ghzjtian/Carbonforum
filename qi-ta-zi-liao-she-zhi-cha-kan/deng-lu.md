@@ -16,6 +16,7 @@
 * 2.2.在 ```controller/login``` 中，会验证 ```($_SERVER['HTTP_REFERER'])``` 和 ```$_SERVER['HTTP_HOST']``` 的主机名是否相同的，如果不相同，就会触发 403 ,防止攻击的功能.
 >HTTP_HOST    localhost 
 HTTP_REFERER    http://localhost/ 
+>
 >'HTTP_REFERER'
 引导用户代理到当前页的前一页的地址（如果存在）。由 user agent 设置决定。并不是所有的用户代理都会设置该项，有的还提供了修改 HTTP_REFERER 的功能。简言之，该值并不可信。
 >'HTTP_HOST'
